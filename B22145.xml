@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the making of salt-peter within the kingdom of England and Dominion of Wales for the preservation and safety of the kingdom.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22145</idno><idno type="EEBO-CITATION">12013956</idno>
+  <idno type="VID">196633</idno>
+  <idno type="EEBO-PROQUEST">2240924852</idno>
+  
+            <idno type="STC">Wing E1992</idno>
+            <idno type="OCLC">12013956</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196633)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 235:E40, no 24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the making of salt-peter within the kingdom of England and Dominion of Wales for the preservation and safety of the kingdom.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>April 5, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Saltpeter.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196633:1"/>
+            <p> AN ORDINANCE OF THE Lords and Commons, Assembled in PARLIAMENT, FOR THE MAKING OF Salt-Peter, VVithin the Kingdom of <hi>England,</hi> and Dominion of <hi>Wales,</hi> for the Preserva<g ref="char:EOLhyphen"/>tion and safety of the Kingdom.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Ordered by the Commons in Parliament, that this Ordinance be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen. Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>Edward Husbands,</hi> April 5. 1644.</p>
+            <pb facs="tcp:196633:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb n="3" facs="tcp:196633:2"/>
+            <head>An <hi>Ordinance</hi> of the <hi>Lords</hi> and <hi>Com<g ref="char:EOLhyphen"/>mons</hi> in Parliament assembled, for the making of <hi>Salt-Peter, &amp;c.</hi>
+            </head>
+            <p>VVHereas the great expence of Gunpow<g ref="char:EOLhyphen"/>der, occasioned by the present Warre <gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>in His Majesties Dominions, hath well neer <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nsumed the old store, and doth exhaust the <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agazines so fast, that without a larger supply, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Navie, Forts, and the land-Arms, cannot be furnished; And whereas forraign Salt-Peter is not equall in goodnesse with that of our own country, and the forraign Gunpowder far worse conditioned, and lesse forceable then that which is made in <hi>England;</hi> And whereas divers forraign Estates have of late prohibited the exportation of Salt-Peter and Gunpowder, out of their own Dominions and countries; so that there can be little hope of future expectation of any Peter or Powder, to be brought into this Kingdom as in former times, which will inforce us to make use of our own materials; It is held most necessary,
+<pb n="4" facs="tcp:196633:3"/> that <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he digging of Salt-Peter, and making of Gunpowder, should by all fit means be incoura<g ref="char:EOLhyphen"/>ged at this time, when it so much concerns the publique safety: Neverthelesse, to prevent the re<g ref="char:EOLhyphen"/>viving of those oppres<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions and vexations, exer<g ref="char:EOLhyphen"/>cised upon the people under the colourable Au<g ref="char:EOLhyphen"/>thority of Commissions granted to Salt-Peter men; which burthen hath been eased since the sit<g ref="char:EOLhyphen"/>ting of this Parliament; And to the end that there may not be any pretence to interrupt the work, It is Ordained by the Lords and Commons in Parliament, That such persons as shall be nomi<g ref="char:EOLhyphen"/>nated and allowed by the Committee of Lords and Commons for the safety of the Kingdom, or any five of them, their Factors, Workmen and Servants, shall have Power and Authority by this present Ordinance, to search and dig for Salt-Peter in all Pigeon-houses, Stables, Cellars, Vaults, empty Warehouses, &amp; other Out houses, Yards and places likely to afford that Earth, at fit seasons, from half an hour after Sun-rising in the morning, till an hour before Sun-setting; and in Pigeon-houses likely to afford that Earth, at fit seasons, from nine of the clock in the morning, till three of the clock in the afternoon; The said Salt-Peter men at their own cost and charges le<g ref="char:EOLhyphen"/>velling
+<pb n="5" facs="tcp:196633:3"/> the ground, and repairing any damage which shall be done by them, wherein if the said Salt-Peter men do fail to give satisfaction, to the contentment of the Owners, upon complaint made by the parties grieved, unto the Deputy Lieutenants, Justices of Peace, Committees of Parliament, or any one or more of them, and they or any one of them shall have power to compell the said Salt-Peter men, to lay the ground in as good order, as before the breaking up (working onely excepted) and likewise to give such reaso<g ref="char:EOLhyphen"/>nable satisfaction for the damage, as he or they in his or their discretion shall think fit, which not being obeyed, the name and offence of such per<g ref="char:EOLhyphen"/>son or persons refusing, shall be returned to the said Committee of Lords and Commons for the safety of the Kingdom, or any five of them; And forasmuch as the Salt-Peter men for the provi<g ref="char:EOLhyphen"/>sion of the State, are to bring in a proportion of Salt-Peter weekly, which they can bee in no wayes able to do, in case they should be desired to dig and work for Salt-Peter, It is therefore Ordered, That in case any person whatsoever shall refuse to suffer Salt-Peter men, allowed by the Committee of Lords and Commons for the safety of the Kingdom, or any five of them, to dig
+<pb n="6" facs="tcp:196633:4"/> and work for Salt-Peter, according to the Rules and Limitations before mentioned, upon com<g ref="char:EOLhyphen"/>plaint thereof made to the Deputy Lieutenants, Justices of Peace, Committees of Parliament, or any one or more of them, then they or any one of them shall hereby have power to inforce the obe<g ref="char:EOLhyphen"/>dience of the parties so refusing, or to certifie their offence, and names of the offenders, to the Com<g ref="char:EOLhyphen"/>mittees of the Lords and Commons for the safety of the Kingdom, to be proceeded against accord<g ref="char:EOLhyphen"/>ing to their demerits. And it is likewise Ordain<g ref="char:EOLhyphen"/>ed, That the said Salt-Peter men for the carriage of the liquor, vessells, and other Utensills from place to place, and delivering of the Salt-Peter where the same shall be made into Gun<g ref="char:EOLhyphen"/>powder, It shall be lawfull for the said Salt-Peter men, to demand and take carts by the known Officers, so as the Lading shall not exceed Twen<g ref="char:EOLhyphen"/>ty hundred weight, and the Journey not exceed Ten miles by common estimation for carriage, whereof the Owner shall be paid after the rate of Eight pence the mile; And the empty vessells are to be recarryed <hi>gratis,</hi> and the said Salt-Peter men are likewise to be freed from all Taxes and Tolls, demandable for any of their carriages used about their said works; And in case any person what<g ref="char:EOLhyphen"/>soever
+<pb n="7" facs="tcp:196633:4"/> shall refuse to suffer the said Salt-Peter men to dig, or to do any other thing in pursu<g ref="char:EOLhyphen"/>ance of this Ordinance, according to the limita<g ref="char:EOLhyphen"/>tions and directions hereby given, then the Salt-Peter men shall return the names of such persons so refusing, to the Committee of Lords &amp; Com<g ref="char:EOLhyphen"/>mons for the safety of the Kingdom, or any five of them, to bee proceeded against according to their demerits. By which means the work of making Powder in this Kingdome (which else will be let fall in this time of danger) may be continued and cherished, and the Subjects may have the benefit of Powder at farre easier Rates then now it is sold for; For which purpose, It is lastly Ordained, that the said committee of Lords and Commons for the safety of the Kingdom, shall by vertue of this Ordinance, have power and Authority to put this Ordinance in executi<g ref="char:EOLhyphen"/>on, and to do and performe all such thing and things as to them shall seem expedient, for the better effecting of this service.</p>
+            <p>And it is further ordained, that such Salt-Peter men as shall bee allowed as aforesaid, shall take such Out-houses for their Work-houses to set their Vessells and Utensills in, as shall be fit, and may be reasonably spared; And to have,
+<pb n="8" facs="tcp:196633:5"/> take, and draw water fit for their said works, they giving satisfaction to the contentment of the Owners thereof; Or if they shall not agree of such satisfaction, that then they appeal to Deputy Lieutenants, Iustices of Peace, or com<g ref="char:EOLhyphen"/>mittees of Parliament, or any one or more of them, who may make such Order therein, as to him or them shall seem fit, which Order shall binde both parties.</p>
+            <p>This Ordinance of Parliament to continue for two yeers from the five and twentieth day of March. 1644.</p>
+            <closer>
+               <signed>H: ELSYNGE, <hi>Cler. Parl. D. Com.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
